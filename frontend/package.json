@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashesi-Org/ComPay.git"
+  },
+  "author": "Noris Atsina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashesi-Org/ComPay/issues"
+  },
+  "homepage": "https://github.com/Ashesi-Org/ComPay#readme"
+}
