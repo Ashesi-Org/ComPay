@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Ashesi-Org/ComPay/issues"
   },
-  "homepage": "https://github.com/Ashesi-Org/ComPay#readme"
+  "homepage": "https://github.com/Ashesi-Org/ComPay#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "ethers": "^6.0.3"
+  }
 }
